@@ -20,7 +20,7 @@
                       &kp LBKT  &kp RBKT                                                                    &kp LBRC   &kp RBRC
                                           &mo RAISE  &kp SPACE                &kp ENTER   &mo LOWER
                                                       &kp HOME &kp LSHIFT   &kp BSPC    &kp PG_UP
-                                                      &kp END  &kp LGUI     &kp RCTRL   &kp PG_DN
+                                                      &kp END  &kp LGUI     &kp LCTRL   &kp PG_DN
             >;
         };
 
