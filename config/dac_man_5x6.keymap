@@ -13,8 +13,8 @@
         default_layer {
 
             bindings = <
-&kp ESC    &kp N1     &kp N2    &kp N3     &kp N4     &kp N5                          &kp N6     &kp N7     &kp N8     &kp N9     &kp N0         &kp LG(LS(R))
-&trans     &kp Q      &kp W     &kp E      &kp R      &kp T                           &kp Y      &kp U      &kp I      &kp O      &kp P          &kp BSLH
+&kp ESC    &kp N1     &kp N2    &kp N3     &kp N4     &kp N5                          &kp N6     &kp N7     &kp N8     &kp N9     &kp N0         &kp LG(LS(Q))
+&kp LG(LS(R)) &kp Q   &kp W     &kp E      &kp R      &kp T                           &kp Y      &kp U      &kp I      &kp O      &kp P          &kp BSLH
 &kp LA(LSHIFT) &kp A  &kp S     &kp D      &kp F      &kp G                           &kp H      &kp J      &kp K      &kp L      &kp SEMI       &kp SQT
 &kp CAPS   &kp Z      &kp X     &kp C      &kp V      &kp B                           &kp N      &kp M      &kp COMMA  &kp DOT    &kp FSLH       &trans
                       &kp LBKT  &kp RBKT                                                                    &kp LBRC   &kp RBRC
